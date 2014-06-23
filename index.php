@@ -32,13 +32,13 @@
       <div class="masthead">
         <h3 class="text-muted">Sat Nav Hire USA</h3>
         <ul class="nav nav-justified">
-          <li><a href="index.php">Home</a></li>
+          <li class="active"><a href="index.php">Home</a></li>
           <li><a href="theservice.php">The Service</a></li>
           <li><a href="hire.php">Hire Now</a></li>
           <li><a href="villarentals.php">Villa Rentals</a></li>
           <li><a href="aboutus.php">About Us</a></li>
           <li><a href="testimonials.php">Testimonials</a></li>
-          <li class="active"><a href="contactus.php">Contact Us</a></li>
+          <li><a href="contact.php">Contact Us</a></li>
           <li><a href="usefullinks.php">Useful Links</a></li>
         </ul>
       </div>
@@ -53,27 +53,28 @@
             <h2>USA &amp; Canada</h2>
               <img src="img/flag-pic.png" alt="" class="advert-pic" width="220" height="150">
               <p>Visiting America or Canada? We offer Sat Navs for hire starting from £16.99.</p>
-              <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+              <p><a class="btn btn-primary" href="hire.php" role="button">View details &raquo;</a></p>
           </div>
 
           <div class="col-lg-4">
             <h2>UK &amp; Europe</h2>
               <img src="img/eu-flag.png" alt="" class="advert-pic" width="220" height="150">
               <p>Visiting the UK or Europe? We currently offer Sat Navs for hire starting from £19.99.</p>
-              <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+              <p><a class="btn btn-primary" href="hire.php" role="button">View details &raquo;</a></p>
           </div>
           
           <div class="col-lg-4">
             <h2>Holiday Home Rental</h2>
               <img src="img/villa1.png" alt="" class="advert-pic" width="220" height="150">
               <p>If you're looking for somewhere to stay while you're in Florida, we offer a fantastic 5 bedroom villa to rent.</p>
-              <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+              <p><a class="btn btn-primary" href="http://www.towerlakevacations.com" target="_blank" role="button">View details &raquo;</a></p>
           </div>
         </div>
       </div>
 
       <!-- Site footer -->
       <div class="footer">
+        <p class="pull-right">Website created by Ashley Kelley &amp; Jordan Clarke</p>
         <p>&copy; Sat Nav Hire USA 2014</p>
       </div>
 

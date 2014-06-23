@@ -38,8 +38,8 @@
           <li><a href="villarentals.php">Villa Rentals</a></li>
           <li><a href="aboutus.php">About Us</a></li>
           <li><a href="testimonials.php">Testimonials</a></li>
-          <li class="active"><a href="contactus.php">Contact Us</a></li>
-          <li><a href="usefullinks.php">Useful Links</a></li>
+          <li><a href="contact.php">Contact Us</a></li>
+          <li class="active"><a href="usefullinks.php">Useful Links</a></li>
         </ul>
       </div>
 
@@ -68,7 +68,8 @@
 
       <!-- Site footer -->
       <div class="footer">
-        <p>&copy; Company 2013</p>
+        <p class="pull-right">Website created by Ashley Kelley &amp; Jordan Clarke</p>
+        <p>&copy; Sat Nav Hire USA 2014</p>
       </div>
 
     </div> <!-- /container -->
